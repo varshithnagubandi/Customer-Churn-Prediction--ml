@@ -1,0 +1,1001 @@
+CustomerID,Gender,Age,Subscription_Length_Months,Monthly_Charges_USD,Contract_Type,Internet_Service,Customer_Support_Calls,Satisfaction_Score,Churn
+1,Male,34,34,107.3,Yearly,DSL,5,9,1
+2,Female,26,11,32.08,Monthly,Fiber,9,5,0
+3,Male,50,41,53.42,Monthly,No service,4,3,1
+4,Male,37,56,122.43,Yearly,DSL,0,5,1
+5,Male,30,3,132.41,Monthly,No service,5,10,0
+6,Female,45,59,99.1,Yearly,DSL,5,4,0
+7,Male,65,28,85.89,Monthly,DSL,2,8,1
+8,Male,46,29,40.71,Monthly,Fiber,7,5,0
+9,Male,30,9,28.2,Yearly,DSL,0,10,0
+10,Female,63,3,35.29,Yearly,DSL,0,8,0
+11,Male,52,25,49.56,Monthly,Fiber,5,9,0
+12,Male,23,34,64.42,Yearly,No service,9,4,0
+13,Male,35,12,69.52,Yearly,DSL,0,7,0
+14,Male,68,42,65.02,Monthly,Fiber,5,2,1
+15,Female,22,9,51.08,Monthly,DSL,0,6,0
+16,Male,64,15,86.26,Monthly,Fiber,5,8,0
+17,Female,42,40,127.29,Yearly,No service,2,7,0
+18,Female,19,25,56.36,Yearly,No service,7,7,0
+19,Female,27,5,142.51,Yearly,Fiber,5,8,0
+20,Male,47,11,133.53,Yearly,Fiber,10,7,1
+21,Female,67,59,41.03,Monthly,Fiber,0,5,1
+22,Male,62,34,122.22,Yearly,No service,4,7,0
+23,Female,22,24,94.7,Monthly,DSL,7,10,0
+24,Female,50,60,93.65,Yearly,No service,2,3,0
+25,Female,18,15,70.84,Monthly,Fiber,5,5,0
+26,Female,35,38,85.15,Monthly,Fiber,4,7,0
+27,Female,49,8,71.63,Monthly,No service,5,9,0
+28,Female,64,59,90.17,Yearly,Fiber,9,2,1
+29,Female,66,5,101.63,Monthly,No service,0,4,0
+30,Female,28,48,107.66,Monthly,Fiber,6,7,0
+31,Male,38,26,89.22,Yearly,DSL,8,1,1
+32,Male,43,18,113.78,Monthly,DSL,1,2,0
+33,Female,42,6,38.37,Yearly,Fiber,9,9,0
+34,Female,39,37,47.56,Yearly,No service,4,10,0
+35,Female,44,60,126.44,Monthly,DSL,9,7,0
+36,Male,66,48,61.93,Monthly,No service,3,10,1
+37,Female,30,13,22.98,Yearly,Fiber,5,7,0
+38,Male,50,28,39.99,Monthly,No service,5,6,1
+39,Male,51,5,49.07,Yearly,DSL,10,3,0
+40,Male,58,13,144.45,Yearly,No service,1,10,0
+41,Male,52,17,94.5,Yearly,No service,1,3,1
+42,Male,18,50,141.25,Monthly,Fiber,3,2,0
+43,Female,38,40,94.77,Yearly,Fiber,0,6,0
+44,Female,65,45,82.32,Monthly,Fiber,8,4,0
+45,Female,23,32,60.78,Monthly,DSL,6,5,0
+46,Female,45,29,98.83,Monthly,DSL,6,3,0
+47,Female,34,51,38.1,Monthly,Fiber,2,6,0
+48,Male,22,58,136.77,Yearly,Fiber,10,3,0
+49,Female,48,3,127.81,Monthly,DSL,2,8,0
+50,Female,22,56,61.28,Yearly,DSL,0,9,1
+51,Male,55,40,143.86,Yearly,DSL,2,4,0
+52,Female,20,34,127.28,Monthly,DSL,2,9,1
+53,Male,40,40,106.62,Yearly,Fiber,3,7,0
+54,Female,54,27,35.83,Yearly,DSL,3,3,0
+55,Male,54,13,82.17,Monthly,Fiber,2,7,1
+56,Female,27,45,85.79,Yearly,No service,9,1,0
+57,Female,27,33,50.23,Yearly,No service,7,3,0
+58,Male,36,6,30.4,Yearly,DSL,7,6,0
+59,Male,34,24,120.97,Yearly,No service,0,4,0
+60,Male,38,19,35.86,Monthly,No service,6,7,0
+61,Male,31,16,97.26,Yearly,No service,10,3,0
+62,Male,26,40,141.74,Yearly,DSL,1,1,1
+63,Male,63,28,133.89,Yearly,DSL,0,9,0
+64,Male,18,33,56.11,Yearly,No service,2,6,1
+65,Male,68,59,130.69,Monthly,Fiber,3,8,1
+66,Female,62,59,20.04,Yearly,No service,5,3,0
+67,Female,30,48,22.3,Monthly,DSL,9,8,0
+68,Male,21,41,98.33,Yearly,DSL,4,2,1
+69,Female,18,13,67.42,Monthly,DSL,3,4,1
+70,Female,66,43,70.24,Monthly,No service,7,3,0
+71,Female,57,45,93.38,Monthly,Fiber,10,10,0
+72,Female,49,25,44.93,Monthly,DSL,3,1,0
+73,Male,51,53,47.53,Monthly,DSL,9,7,0
+74,Female,45,42,83.0,Yearly,No service,1,10,0
+75,Male,48,36,118.05,Yearly,Fiber,2,2,0
+76,Female,25,27,100.53,Yearly,No service,5,4,0
+77,Female,56,38,58.66,Monthly,DSL,7,9,0
+78,Female,43,60,75.94,Yearly,Fiber,7,6,0
+79,Male,51,7,42.19,Monthly,Fiber,10,8,0
+80,Female,20,5,29.7,Monthly,DSL,8,2,0
+81,Male,67,43,121.75,Yearly,Fiber,6,7,0
+82,Female,29,45,54.5,Yearly,Fiber,1,6,0
+83,Male,18,58,43.11,Monthly,No service,7,9,0
+84,Female,61,57,109.91,Monthly,DSL,6,7,0
+85,Male,22,51,100.35,Yearly,DSL,7,1,1
+86,Male,47,31,102.31,Yearly,DSL,2,8,0
+87,Female,47,23,49.76,Yearly,DSL,6,10,0
+88,Male,34,42,50.24,Yearly,DSL,9,3,0
+89,Female,65,10,48.7,Monthly,Fiber,8,2,1
+90,Female,64,32,42.59,Yearly,No service,2,3,0
+91,Female,40,43,105.24,Yearly,DSL,9,6,0
+92,Female,32,53,130.24,Yearly,No service,5,3,0
+93,Female,54,30,114.16,Monthly,No service,1,10,0
+94,Female,38,39,122.97,Monthly,Fiber,1,5,0
+95,Female,31,31,72.62,Monthly,DSL,4,6,0
+96,Female,19,18,105.03,Monthly,Fiber,4,8,0
+97,Female,28,36,66.05,Yearly,DSL,6,7,0
+98,Female,68,2,88.32,Monthly,Fiber,1,8,0
+99,Female,56,14,82.61,Yearly,No service,10,3,0
+100,Male,55,13,43.0,Yearly,DSL,6,4,1
+101,Male,51,29,70.32,Yearly,No service,4,6,0
+102,Female,55,12,145.3,Yearly,No service,5,7,1
+103,Female,67,39,52.32,Monthly,Fiber,7,9,0
+104,Female,51,2,37.39,Monthly,DSL,9,1,0
+105,Female,35,32,74.42,Monthly,No service,3,8,0
+106,Female,47,13,122.74,Yearly,Fiber,6,8,1
+107,Female,32,46,95.68,Yearly,DSL,5,6,0
+108,Female,44,27,108.53,Yearly,DSL,9,4,0
+109,Female,68,49,44.66,Yearly,No service,1,3,0
+110,Male,51,41,100.46,Yearly,DSL,7,3,0
+111,Female,69,17,62.06,Monthly,No service,9,6,0
+112,Male,55,40,128.46,Yearly,DSL,8,8,0
+113,Female,50,31,101.81,Monthly,Fiber,4,7,0
+114,Female,41,34,45.85,Yearly,No service,9,1,0
+115,Male,32,60,28.4,Yearly,No service,3,6,0
+116,Female,47,24,25.54,Monthly,DSL,5,7,0
+117,Male,59,45,68.28,Monthly,DSL,7,7,0
+118,Female,68,35,54.56,Yearly,No service,10,9,0
+119,Female,34,48,103.99,Yearly,DSL,2,10,0
+120,Male,22,6,84.91,Yearly,Fiber,9,5,0
+121,Female,46,19,54.58,Yearly,DSL,10,1,1
+122,Male,21,30,39.4,Monthly,Fiber,10,2,1
+123,Female,27,7,36.54,Yearly,Fiber,0,4,1
+124,Male,34,10,132.41,Monthly,Fiber,3,5,0
+125,Male,27,41,51.65,Yearly,Fiber,3,9,0
+126,Female,34,32,104.72,Monthly,Fiber,0,1,0
+127,Female,37,34,125.39,Monthly,DSL,8,3,0
+128,Male,41,28,99.83,Yearly,Fiber,2,5,0
+129,Female,22,60,131.74,Monthly,DSL,4,3,1
+130,Female,51,15,71.01,Yearly,Fiber,5,4,1
+131,Female,23,30,144.31,Monthly,No service,7,3,1
+132,Male,19,37,37.31,Yearly,Fiber,5,4,0
+133,Male,30,29,33.28,Monthly,No service,2,1,0
+134,Male,60,22,105.63,Yearly,Fiber,5,8,0
+135,Male,60,4,142.57,Yearly,Fiber,0,4,0
+136,Male,65,20,125.15,Monthly,Fiber,3,7,0
+137,Male,28,32,29.93,Monthly,No service,5,2,0
+138,Male,68,36,56.32,Monthly,No service,6,2,0
+139,Male,64,50,140.94,Monthly,Fiber,10,6,0
+140,Male,40,4,52.9,Yearly,DSL,10,2,0
+141,Female,33,27,121.55,Monthly,Fiber,9,6,1
+142,Male,48,17,127.27,Yearly,No service,2,2,0
+143,Female,28,12,84.41,Monthly,Fiber,8,4,1
+144,Female,33,22,70.23,Yearly,No service,6,7,0
+145,Female,25,17,78.52,Yearly,No service,0,8,0
+146,Male,21,10,49.51,Yearly,No service,1,3,0
+147,Male,57,54,135.62,Yearly,Fiber,0,9,0
+148,Male,21,1,78.58,Monthly,No service,10,2,1
+149,Male,42,22,134.72,Monthly,No service,8,8,0
+150,Female,20,26,33.74,Yearly,Fiber,8,8,0
+151,Male,49,56,148.48,Monthly,No service,6,4,0
+152,Male,20,59,77.63,Monthly,Fiber,9,1,1
+153,Male,44,18,26.22,Yearly,No service,2,1,0
+154,Male,46,50,24.94,Monthly,DSL,4,2,1
+155,Male,49,14,117.01,Monthly,DSL,3,9,0
+156,Female,67,47,105.67,Monthly,No service,6,2,0
+157,Male,68,29,124.28,Yearly,DSL,8,2,0
+158,Female,36,12,33.7,Monthly,Fiber,1,6,0
+159,Male,38,36,24.62,Yearly,DSL,7,7,0
+160,Female,22,59,86.12,Monthly,No service,8,7,1
+161,Male,35,35,70.39,Monthly,No service,9,9,0
+162,Male,45,52,80.05,Monthly,Fiber,9,6,0
+163,Female,59,12,148.91,Yearly,No service,8,8,0
+164,Female,39,7,146.2,Yearly,Fiber,9,6,0
+165,Female,38,29,142.5,Monthly,DSL,6,2,0
+166,Male,23,11,121.9,Yearly,DSL,8,1,0
+167,Female,18,33,66.13,Monthly,Fiber,8,5,0
+168,Male,22,6,73.58,Yearly,Fiber,2,9,0
+169,Male,58,47,91.45,Yearly,No service,3,8,0
+170,Female,29,15,127.97,Monthly,DSL,1,4,0
+171,Female,43,32,28.93,Monthly,Fiber,9,5,0
+172,Male,63,51,75.16,Monthly,DSL,2,5,0
+173,Male,51,11,30.74,Monthly,Fiber,10,6,0
+174,Female,66,58,86.91,Yearly,DSL,10,3,1
+175,Female,31,23,136.86,Yearly,No service,4,5,1
+176,Female,43,26,121.72,Yearly,DSL,4,2,0
+177,Male,62,34,49.62,Monthly,DSL,5,10,0
+178,Male,44,46,146.88,Monthly,DSL,6,1,1
+179,Male,26,34,106.76,Yearly,DSL,6,1,1
+180,Male,43,29,21.36,Monthly,DSL,0,10,1
+181,Male,64,4,53.2,Yearly,No service,1,7,0
+182,Male,39,17,53.89,Yearly,Fiber,8,2,0
+183,Female,64,35,29.0,Yearly,DSL,9,4,1
+184,Male,47,13,144.78,Yearly,No service,1,5,0
+185,Male,60,41,82.17,Yearly,DSL,5,7,0
+186,Male,65,39,136.46,Monthly,DSL,10,2,0
+187,Female,34,15,61.89,Monthly,Fiber,10,6,0
+188,Male,43,55,36.28,Monthly,DSL,0,1,0
+189,Male,53,29,81.66,Yearly,No service,2,7,0
+190,Female,18,29,34.81,Yearly,No service,1,9,0
+191,Male,25,11,83.18,Yearly,Fiber,2,5,0
+192,Male,66,52,139.64,Yearly,DSL,4,5,0
+193,Male,52,32,87.7,Monthly,No service,10,4,0
+194,Male,69,2,100.14,Monthly,DSL,9,3,0
+195,Male,32,47,40.36,Yearly,DSL,5,9,0
+196,Female,64,14,25.69,Yearly,DSL,8,5,1
+197,Female,39,20,34.41,Yearly,Fiber,10,8,0
+198,Female,31,22,97.81,Monthly,DSL,9,9,0
+199,Male,43,11,32.35,Monthly,No service,3,5,0
+200,Male,45,27,68.88,Monthly,DSL,6,10,1
+201,Male,40,3,91.51,Yearly,No service,5,9,0
+202,Female,31,17,70.52,Yearly,DSL,1,2,0
+203,Male,41,44,41.28,Monthly,No service,9,9,0
+204,Male,19,56,55.59,Yearly,No service,10,4,0
+205,Female,62,28,140.68,Monthly,DSL,10,6,1
+206,Male,43,29,107.88,Yearly,DSL,10,6,1
+207,Female,31,21,84.49,Monthly,No service,7,6,0
+208,Female,68,47,21.65,Yearly,Fiber,6,2,0
+209,Female,24,16,149.01,Monthly,DSL,6,7,0
+210,Male,20,37,107.29,Monthly,Fiber,7,6,0
+211,Male,64,59,61.2,Monthly,DSL,10,1,0
+212,Male,40,20,134.3,Monthly,DSL,0,2,0
+213,Male,63,6,53.6,Monthly,DSL,0,7,0
+214,Male,60,19,90.72,Monthly,DSL,7,1,0
+215,Male,64,57,102.69,Yearly,Fiber,3,1,1
+216,Male,62,5,48.74,Yearly,DSL,4,1,0
+217,Female,35,3,147.19,Yearly,No service,7,8,1
+218,Male,55,59,117.26,Monthly,No service,4,4,0
+219,Female,52,1,92.52,Monthly,Fiber,9,4,0
+220,Male,68,58,43.48,Yearly,DSL,3,2,0
+221,Male,32,60,27.0,Monthly,No service,5,1,0
+222,Male,42,38,61.61,Monthly,Fiber,4,10,0
+223,Female,54,15,117.91,Monthly,DSL,6,9,0
+224,Female,45,34,55.01,Monthly,No service,9,7,1
+225,Female,27,35,90.14,Monthly,No service,6,4,0
+226,Female,56,49,114.63,Yearly,Fiber,3,6,0
+227,Male,34,25,34.03,Yearly,DSL,4,2,1
+228,Female,56,24,109.09,Yearly,DSL,2,7,0
+229,Male,39,12,31.94,Yearly,No service,3,2,0
+230,Male,43,18,145.47,Yearly,No service,3,10,0
+231,Female,61,15,83.49,Monthly,No service,2,8,1
+232,Female,42,44,39.59,Monthly,DSL,9,8,1
+233,Female,34,16,64.51,Monthly,Fiber,4,1,1
+234,Female,30,27,73.74,Monthly,Fiber,4,8,0
+235,Female,37,8,118.56,Yearly,DSL,10,2,1
+236,Female,42,60,116.65,Yearly,Fiber,6,6,0
+237,Female,21,46,99.55,Yearly,No service,3,1,0
+238,Female,27,25,33.77,Monthly,Fiber,3,5,0
+239,Male,20,17,39.7,Yearly,Fiber,8,7,0
+240,Female,58,29,32.19,Monthly,Fiber,5,10,1
+241,Female,62,53,95.03,Yearly,No service,3,1,1
+242,Male,35,8,134.03,Yearly,DSL,1,2,0
+243,Female,64,15,76.39,Monthly,No service,5,7,0
+244,Male,53,27,40.91,Monthly,DSL,1,6,0
+245,Male,64,46,92.55,Yearly,DSL,4,3,1
+246,Female,39,50,125.53,Yearly,DSL,5,10,0
+247,Male,51,52,116.42,Monthly,Fiber,3,2,0
+248,Male,64,7,134.59,Yearly,Fiber,2,10,0
+249,Male,25,3,56.13,Yearly,DSL,6,4,0
+250,Male,57,29,45.21,Monthly,DSL,1,3,0
+251,Female,66,44,134.38,Yearly,Fiber,10,7,1
+252,Male,61,53,105.48,Monthly,No service,5,8,0
+253,Female,36,24,60.42,Yearly,DSL,3,2,0
+254,Male,59,60,116.51,Monthly,No service,5,10,0
+255,Male,58,58,125.97,Yearly,Fiber,3,7,0
+256,Male,54,3,99.95,Monthly,DSL,3,8,1
+257,Male,23,20,109.42,Yearly,No service,3,6,0
+258,Female,69,46,68.78,Monthly,No service,8,6,0
+259,Female,43,15,90.03,Yearly,No service,6,10,0
+260,Male,51,25,88.14,Yearly,Fiber,2,1,0
+261,Male,62,30,130.25,Yearly,Fiber,2,4,0
+262,Female,23,14,129.2,Yearly,No service,5,1,0
+263,Male,54,7,128.25,Yearly,No service,5,4,0
+264,Male,50,17,21.43,Yearly,Fiber,3,2,0
+265,Male,39,44,117.44,Yearly,No service,8,5,0
+266,Female,38,20,118.63,Yearly,No service,3,10,0
+267,Female,23,36,108.19,Yearly,Fiber,8,9,0
+268,Female,23,9,118.31,Monthly,No service,3,10,0
+269,Male,65,38,129.46,Monthly,No service,1,3,1
+270,Male,21,48,81.14,Yearly,No service,1,8,1
+271,Female,47,57,85.27,Monthly,Fiber,4,3,0
+272,Female,28,60,36.21,Yearly,No service,3,6,0
+273,Female,47,22,70.1,Yearly,Fiber,6,4,0
+274,Female,48,54,103.64,Monthly,Fiber,10,8,0
+275,Male,41,53,121.45,Yearly,DSL,4,6,1
+276,Female,26,53,48.24,Yearly,DSL,5,8,0
+277,Male,20,2,37.92,Monthly,No service,9,1,0
+278,Female,68,24,106.2,Monthly,Fiber,3,6,1
+279,Male,48,8,20.24,Yearly,DSL,1,1,1
+280,Female,57,11,43.19,Monthly,No service,9,1,0
+281,Female,54,13,23.78,Monthly,DSL,8,8,0
+282,Female,53,17,41.7,Yearly,DSL,9,7,0
+283,Female,41,8,43.57,Monthly,Fiber,6,3,0
+284,Male,48,21,70.4,Monthly,Fiber,3,6,1
+285,Female,23,18,72.3,Yearly,DSL,2,9,1
+286,Male,19,30,133.65,Monthly,DSL,9,7,1
+287,Male,37,18,86.31,Monthly,Fiber,2,3,0
+288,Male,45,46,114.04,Yearly,No service,8,6,1
+289,Male,28,47,33.54,Yearly,Fiber,4,4,0
+290,Female,21,31,49.31,Yearly,DSL,2,3,0
+291,Male,32,38,111.38,Monthly,No service,4,9,0
+292,Male,23,32,26.86,Yearly,DSL,1,10,0
+293,Male,66,11,83.26,Yearly,No service,10,2,1
+294,Female,47,45,97.92,Monthly,DSL,3,1,0
+295,Female,55,25,98.28,Yearly,No service,9,2,0
+296,Female,68,33,22.98,Yearly,No service,1,7,0
+297,Female,19,60,61.87,Yearly,DSL,1,10,0
+298,Male,32,38,102.74,Yearly,No service,7,1,0
+299,Male,28,41,39.37,Monthly,Fiber,0,6,0
+300,Female,25,8,110.4,Yearly,DSL,6,7,1
+301,Male,43,11,116.97,Yearly,Fiber,4,9,0
+302,Male,68,22,147.66,Monthly,DSL,10,8,0
+303,Male,62,51,47.28,Yearly,No service,7,6,0
+304,Female,61,24,127.27,Monthly,No service,0,3,1
+305,Female,22,41,87.64,Monthly,No service,10,8,0
+306,Male,23,17,68.55,Monthly,DSL,6,7,0
+307,Female,43,12,35.91,Yearly,Fiber,4,3,0
+308,Female,21,57,115.62,Monthly,Fiber,3,9,0
+309,Female,36,46,50.66,Monthly,DSL,6,2,0
+310,Female,37,32,68.28,Monthly,DSL,9,3,0
+311,Female,50,15,28.13,Yearly,Fiber,1,2,0
+312,Male,37,16,124.18,Yearly,Fiber,0,1,0
+313,Female,66,54,119.66,Yearly,Fiber,0,4,0
+314,Male,29,22,115.37,Yearly,Fiber,10,5,0
+315,Male,64,28,58.93,Yearly,DSL,0,6,0
+316,Female,18,20,42.55,Yearly,DSL,4,5,0
+317,Male,43,33,102.88,Yearly,No service,9,1,0
+318,Male,31,10,84.5,Monthly,Fiber,6,3,0
+319,Male,55,40,43.17,Monthly,No service,1,1,0
+320,Female,54,32,109.17,Monthly,DSL,9,5,1
+321,Female,28,50,148.85,Monthly,DSL,7,5,1
+322,Male,53,60,117.14,Yearly,No service,3,6,0
+323,Female,30,33,116.2,Monthly,Fiber,2,8,0
+324,Female,60,2,143.54,Monthly,Fiber,9,10,0
+325,Female,20,33,46.38,Monthly,Fiber,10,1,1
+326,Female,50,33,93.52,Monthly,Fiber,7,4,0
+327,Male,23,41,147.35,Yearly,No service,1,10,0
+328,Male,67,13,41.49,Yearly,No service,10,1,1
+329,Female,27,30,111.03,Yearly,DSL,10,9,0
+330,Female,22,33,96.16,Monthly,Fiber,2,7,1
+331,Male,40,13,96.24,Yearly,Fiber,2,7,0
+332,Male,27,52,110.7,Monthly,Fiber,9,5,0
+333,Female,61,26,140.85,Yearly,No service,10,7,1
+334,Male,19,22,121.74,Yearly,Fiber,0,2,0
+335,Female,30,39,27.3,Yearly,No service,5,4,0
+336,Female,57,2,130.85,Yearly,Fiber,1,7,0
+337,Male,19,38,49.32,Yearly,Fiber,0,3,1
+338,Male,37,39,69.0,Monthly,DSL,1,2,0
+339,Female,18,26,80.03,Yearly,Fiber,5,10,0
+340,Female,54,46,82.52,Monthly,Fiber,3,2,0
+341,Male,26,58,76.57,Monthly,DSL,5,1,0
+342,Female,34,50,141.86,Monthly,No service,8,5,0
+343,Male,26,15,111.78,Monthly,No service,9,6,0
+344,Female,28,34,102.05,Monthly,Fiber,9,6,0
+345,Male,32,42,26.48,Yearly,No service,7,9,1
+346,Male,41,55,137.51,Yearly,Fiber,0,4,0
+347,Male,55,44,138.22,Yearly,DSL,7,1,0
+348,Female,52,49,121.43,Yearly,DSL,8,6,1
+349,Female,47,40,20.91,Monthly,Fiber,5,5,0
+350,Male,48,11,27.45,Yearly,DSL,9,10,1
+351,Female,66,3,49.28,Yearly,DSL,4,6,0
+352,Male,22,59,37.08,Monthly,Fiber,5,3,0
+353,Male,61,6,71.85,Monthly,Fiber,5,2,0
+354,Female,67,9,139.94,Yearly,DSL,8,6,0
+355,Female,31,6,81.37,Yearly,No service,3,1,0
+356,Male,28,9,21.74,Monthly,No service,1,7,0
+357,Female,26,39,56.76,Yearly,Fiber,10,7,1
+358,Female,51,31,25.8,Yearly,Fiber,10,10,0
+359,Male,29,32,24.72,Yearly,No service,8,7,0
+360,Male,52,41,55.84,Yearly,DSL,1,10,0
+361,Female,52,50,55.83,Monthly,No service,9,1,1
+362,Male,18,12,122.33,Monthly,No service,8,4,0
+363,Male,57,8,146.73,Monthly,No service,1,7,0
+364,Female,39,8,68.26,Yearly,No service,7,9,0
+365,Male,46,50,75.76,Yearly,Fiber,8,5,0
+366,Male,25,28,129.82,Yearly,Fiber,9,2,0
+367,Female,28,20,54.86,Yearly,DSL,8,7,1
+368,Female,58,47,40.33,Yearly,DSL,9,10,0
+369,Male,54,59,130.9,Monthly,DSL,8,1,1
+370,Male,31,7,26.05,Yearly,DSL,1,7,0
+371,Female,47,11,100.56,Yearly,No service,3,6,0
+372,Female,52,20,93.06,Monthly,Fiber,6,7,1
+373,Female,38,16,64.97,Yearly,Fiber,1,10,0
+374,Female,54,4,60.97,Monthly,DSL,0,3,1
+375,Male,22,6,120.34,Monthly,DSL,2,3,0
+376,Female,36,58,31.24,Monthly,No service,3,7,1
+377,Female,31,22,50.78,Monthly,No service,7,2,0
+378,Male,43,26,115.22,Monthly,DSL,5,1,0
+379,Female,21,3,91.28,Yearly,Fiber,10,9,0
+380,Male,42,41,36.64,Monthly,Fiber,1,9,0
+381,Female,62,60,134.68,Monthly,Fiber,8,7,0
+382,Female,59,42,71.15,Yearly,DSL,1,7,0
+383,Female,42,14,127.62,Yearly,Fiber,4,3,0
+384,Male,35,11,122.4,Monthly,No service,3,10,0
+385,Male,57,18,101.18,Yearly,No service,6,2,1
+386,Female,25,54,84.28,Yearly,DSL,7,7,0
+387,Male,56,12,147.34,Monthly,No service,4,9,0
+388,Male,57,23,38.85,Monthly,DSL,9,1,0
+389,Male,31,12,114.27,Yearly,Fiber,4,4,0
+390,Male,49,13,44.85,Monthly,Fiber,1,6,0
+391,Male,68,25,63.97,Monthly,Fiber,7,7,0
+392,Male,55,45,60.13,Yearly,No service,1,10,1
+393,Female,50,51,143.11,Monthly,DSL,9,7,1
+394,Female,40,58,145.76,Monthly,Fiber,5,10,0
+395,Male,32,19,43.79,Monthly,DSL,7,2,0
+396,Female,50,55,22.86,Monthly,Fiber,5,4,0
+397,Female,42,46,113.6,Monthly,No service,3,5,0
+398,Female,34,36,74.34,Yearly,No service,3,1,0
+399,Female,50,45,31.55,Yearly,DSL,5,1,0
+400,Male,64,8,108.89,Monthly,No service,3,10,0
+401,Female,19,29,90.86,Yearly,No service,7,3,0
+402,Female,31,55,147.47,Monthly,DSL,8,10,0
+403,Male,57,53,49.56,Monthly,Fiber,0,3,1
+404,Male,57,55,72.52,Monthly,No service,3,8,0
+405,Female,68,32,90.53,Monthly,DSL,3,9,1
+406,Female,56,51,122.92,Monthly,No service,1,1,1
+407,Female,68,44,91.35,Yearly,No service,5,2,0
+408,Female,23,18,99.68,Yearly,No service,2,10,0
+409,Female,23,6,49.4,Monthly,No service,6,2,0
+410,Female,20,18,130.1,Yearly,DSL,10,4,1
+411,Male,24,19,75.72,Monthly,DSL,10,2,1
+412,Female,68,22,38.32,Yearly,DSL,4,7,0
+413,Female,25,37,106.34,Monthly,No service,3,9,0
+414,Male,59,32,48.09,Yearly,No service,4,7,1
+415,Male,69,56,32.68,Monthly,No service,7,6,0
+416,Male,32,41,132.06,Monthly,DSL,2,10,1
+417,Male,64,59,79.82,Yearly,No service,6,1,1
+418,Female,46,3,117.41,Yearly,Fiber,5,10,0
+419,Female,50,28,57.78,Monthly,No service,0,9,0
+420,Female,69,10,122.31,Yearly,Fiber,6,5,0
+421,Female,47,51,34.55,Monthly,No service,6,5,0
+422,Female,56,35,66.28,Yearly,DSL,0,6,0
+423,Female,44,29,147.15,Yearly,No service,8,9,1
+424,Male,53,54,123.22,Monthly,Fiber,5,8,1
+425,Female,46,15,84.64,Yearly,Fiber,1,8,1
+426,Male,55,33,64.17,Yearly,No service,4,8,0
+427,Male,50,7,133.38,Monthly,Fiber,10,1,1
+428,Female,54,12,90.83,Yearly,Fiber,3,1,0
+429,Male,44,49,118.6,Monthly,DSL,6,8,0
+430,Female,50,30,118.03,Monthly,No service,7,5,0
+431,Male,21,21,22.33,Monthly,No service,10,9,0
+432,Female,39,31,36.41,Monthly,No service,10,2,1
+433,Male,19,58,105.75,Monthly,Fiber,0,9,0
+434,Female,27,24,41.01,Yearly,No service,4,8,0
+435,Female,22,20,53.21,Monthly,No service,2,9,0
+436,Female,27,37,143.06,Monthly,DSL,0,4,0
+437,Female,50,4,92.82,Yearly,DSL,2,1,0
+438,Female,55,28,117.59,Yearly,DSL,5,1,0
+439,Male,30,44,92.54,Yearly,Fiber,6,5,0
+440,Male,48,20,91.83,Monthly,No service,7,2,0
+441,Male,64,60,32.24,Monthly,DSL,10,8,1
+442,Female,53,24,64.68,Monthly,DSL,3,10,0
+443,Male,62,50,56.72,Yearly,DSL,2,5,0
+444,Female,41,49,70.79,Monthly,No service,4,5,0
+445,Female,69,51,123.78,Yearly,No service,8,2,0
+446,Male,32,32,68.35,Monthly,No service,5,7,0
+447,Male,46,41,78.72,Yearly,Fiber,8,8,0
+448,Female,25,36,71.66,Monthly,Fiber,5,10,1
+449,Male,22,58,32.14,Monthly,DSL,1,1,0
+450,Female,46,53,77.34,Monthly,No service,4,2,1
+451,Female,64,34,45.43,Yearly,DSL,10,10,1
+452,Female,21,36,44.27,Yearly,No service,8,4,0
+453,Female,29,2,32.22,Monthly,No service,7,5,0
+454,Female,62,15,66.37,Monthly,No service,6,2,0
+455,Male,19,34,118.47,Monthly,Fiber,0,1,1
+456,Male,44,36,55.94,Yearly,Fiber,3,9,1
+457,Female,48,6,60.61,Monthly,No service,6,1,0
+458,Female,68,39,103.55,Monthly,DSL,10,4,1
+459,Male,68,42,45.46,Monthly,No service,6,2,0
+460,Male,53,51,136.6,Monthly,No service,5,4,1
+461,Female,53,51,87.62,Yearly,DSL,7,8,1
+462,Male,43,58,78.19,Yearly,No service,10,8,0
+463,Female,60,54,92.52,Monthly,DSL,5,9,0
+464,Male,44,12,41.58,Monthly,Fiber,9,5,0
+465,Female,22,3,99.75,Yearly,Fiber,2,7,0
+466,Male,37,45,67.2,Yearly,DSL,3,3,1
+467,Female,28,18,136.63,Monthly,Fiber,2,10,0
+468,Male,27,40,41.95,Yearly,Fiber,0,4,0
+469,Male,57,21,85.92,Yearly,DSL,9,10,0
+470,Female,55,15,97.75,Monthly,Fiber,4,9,1
+471,Male,23,33,24.34,Yearly,No service,0,10,0
+472,Female,25,35,67.28,Yearly,No service,0,10,0
+473,Male,40,26,115.24,Monthly,DSL,1,1,0
+474,Female,64,8,126.65,Monthly,Fiber,3,2,1
+475,Male,43,36,60.71,Yearly,No service,5,5,1
+476,Female,63,48,123.82,Monthly,No service,7,3,0
+477,Male,60,30,145.81,Yearly,Fiber,2,2,0
+478,Female,29,23,131.39,Monthly,Fiber,0,1,0
+479,Male,43,42,35.29,Yearly,No service,2,10,0
+480,Female,30,44,116.16,Monthly,No service,2,3,0
+481,Female,57,14,61.56,Yearly,DSL,4,1,1
+482,Female,35,14,148.49,Yearly,DSL,10,1,0
+483,Male,42,2,83.1,Yearly,No service,3,1,1
+484,Female,50,55,35.92,Monthly,DSL,3,8,0
+485,Male,64,37,114.27,Monthly,No service,8,3,0
+486,Female,57,5,61.99,Yearly,No service,6,1,0
+487,Male,60,38,149.62,Yearly,DSL,3,7,0
+488,Female,29,45,147.37,Monthly,DSL,2,10,0
+489,Male,61,41,105.3,Monthly,Fiber,5,3,0
+490,Male,53,54,36.88,Monthly,Fiber,2,8,0
+491,Female,65,60,109.29,Monthly,Fiber,5,4,0
+492,Male,21,47,32.09,Monthly,No service,10,4,0
+493,Male,22,14,23.82,Monthly,DSL,10,5,1
+494,Female,54,56,126.98,Yearly,No service,8,6,0
+495,Male,25,39,47.27,Monthly,DSL,5,7,1
+496,Male,59,25,69.27,Yearly,No service,3,4,0
+497,Male,66,20,146.55,Monthly,Fiber,4,8,1
+498,Female,45,2,63.79,Monthly,Fiber,5,6,0
+499,Male,48,39,58.54,Yearly,Fiber,10,1,1
+500,Female,26,6,139.37,Yearly,No service,2,1,0
+501,Male,68,17,34.4,Monthly,DSL,7,9,0
+502,Male,46,59,118.75,Yearly,DSL,3,10,0
+503,Male,31,25,148.45,Yearly,Fiber,7,6,0
+504,Female,57,57,137.17,Yearly,Fiber,9,10,0
+505,Male,58,28,104.72,Yearly,Fiber,9,8,0
+506,Male,39,2,60.83,Monthly,Fiber,2,7,0
+507,Female,28,35,53.06,Yearly,DSL,9,6,1
+508,Male,40,37,126.5,Monthly,No service,6,4,0
+509,Female,18,5,134.38,Monthly,No service,10,7,0
+510,Female,63,1,88.31,Monthly,No service,8,9,0
+511,Male,54,40,51.76,Monthly,No service,3,10,0
+512,Female,38,12,34.68,Yearly,Fiber,7,10,0
+513,Male,43,56,31.33,Yearly,Fiber,2,7,0
+514,Female,63,36,113.48,Monthly,Fiber,6,1,1
+515,Female,53,45,74.62,Monthly,No service,2,10,1
+516,Male,40,23,137.7,Monthly,Fiber,6,9,1
+517,Female,18,47,116.16,Monthly,Fiber,10,4,0
+518,Female,68,31,44.86,Yearly,DSL,9,3,1
+519,Female,57,11,99.79,Monthly,DSL,9,4,0
+520,Female,32,10,76.62,Yearly,Fiber,10,4,0
+521,Female,38,3,95.04,Monthly,DSL,10,10,0
+522,Male,64,54,115.95,Monthly,DSL,5,2,0
+523,Female,26,14,124.81,Monthly,Fiber,1,1,0
+524,Male,26,16,129.69,Monthly,Fiber,10,10,0
+525,Female,27,10,53.02,Yearly,Fiber,2,1,0
+526,Male,69,29,24.05,Yearly,Fiber,5,8,0
+527,Male,43,10,116.11,Yearly,No service,3,2,0
+528,Female,58,12,33.82,Monthly,No service,5,10,0
+529,Female,52,30,60.94,Monthly,Fiber,0,5,0
+530,Female,69,41,20.5,Yearly,DSL,9,4,0
+531,Male,42,1,108.62,Yearly,Fiber,0,8,1
+532,Female,43,5,41.73,Monthly,Fiber,2,2,0
+533,Male,28,20,105.19,Monthly,DSL,7,10,0
+534,Male,55,8,148.93,Yearly,No service,7,9,0
+535,Male,19,43,29.45,Monthly,Fiber,10,7,0
+536,Female,24,12,30.02,Monthly,Fiber,3,7,1
+537,Female,35,1,64.25,Yearly,No service,5,1,0
+538,Male,44,57,132.63,Monthly,No service,7,2,0
+539,Male,51,54,48.02,Yearly,DSL,6,4,1
+540,Female,44,20,66.85,Monthly,No service,10,4,0
+541,Male,34,28,28.91,Yearly,No service,6,3,0
+542,Female,60,57,119.21,Monthly,No service,3,7,0
+543,Male,61,43,73.08,Yearly,DSL,8,8,0
+544,Female,68,37,118.7,Yearly,No service,9,2,0
+545,Male,41,47,137.47,Yearly,No service,5,4,0
+546,Female,42,37,50.26,Yearly,DSL,10,3,1
+547,Male,24,12,124.96,Monthly,No service,2,2,0
+548,Female,69,37,27.68,Monthly,No service,4,6,0
+549,Female,23,49,136.85,Yearly,DSL,4,4,0
+550,Male,41,49,104.6,Monthly,Fiber,4,6,1
+551,Male,50,56,133.65,Monthly,DSL,7,2,1
+552,Female,66,44,20.02,Monthly,No service,8,4,0
+553,Male,46,56,41.98,Monthly,No service,8,6,0
+554,Female,60,28,70.67,Monthly,No service,5,5,0
+555,Male,39,47,69.34,Yearly,DSL,5,3,0
+556,Female,43,15,49.47,Yearly,No service,8,8,0
+557,Female,45,6,69.61,Yearly,No service,3,7,0
+558,Female,67,44,36.75,Yearly,DSL,5,3,0
+559,Female,38,59,73.66,Monthly,Fiber,3,6,1
+560,Female,66,20,124.31,Monthly,Fiber,10,4,0
+561,Female,24,50,82.28,Yearly,No service,0,5,1
+562,Male,34,14,22.34,Monthly,DSL,6,5,0
+563,Male,37,2,74.79,Monthly,No service,9,7,0
+564,Male,58,9,23.53,Yearly,DSL,10,5,0
+565,Female,66,37,145.61,Monthly,DSL,5,3,0
+566,Female,37,20,36.57,Yearly,Fiber,8,10,0
+567,Female,39,26,112.0,Yearly,Fiber,6,5,0
+568,Female,45,29,146.46,Monthly,DSL,6,7,0
+569,Male,57,1,127.39,Monthly,No service,1,5,0
+570,Male,66,55,110.91,Yearly,Fiber,10,5,1
+571,Female,24,35,129.13,Yearly,No service,8,9,0
+572,Male,18,6,147.63,Monthly,Fiber,9,3,0
+573,Male,49,37,100.77,Yearly,Fiber,8,6,0
+574,Female,30,53,92.69,Yearly,No service,5,1,1
+575,Male,47,59,101.67,Yearly,Fiber,2,10,0
+576,Female,40,5,89.25,Monthly,Fiber,0,5,0
+577,Male,68,33,102.56,Yearly,No service,3,8,0
+578,Female,36,49,78.48,Monthly,Fiber,2,5,0
+579,Female,49,51,48.4,Yearly,Fiber,0,9,1
+580,Female,47,14,35.63,Monthly,Fiber,2,6,0
+581,Female,46,12,28.88,Yearly,No service,3,8,0
+582,Male,66,42,54.23,Monthly,DSL,7,10,0
+583,Female,62,20,26.0,Monthly,No service,8,8,0
+584,Female,46,53,93.73,Monthly,DSL,2,3,1
+585,Female,47,50,56.9,Yearly,Fiber,5,7,0
+586,Male,33,24,127.19,Yearly,DSL,9,7,0
+587,Female,57,59,29.65,Yearly,No service,10,10,0
+588,Male,36,43,49.43,Monthly,No service,4,6,0
+589,Female,35,34,114.93,Yearly,Fiber,5,7,1
+590,Male,18,25,97.85,Monthly,DSL,3,2,0
+591,Male,31,50,28.38,Yearly,Fiber,9,9,0
+592,Female,68,29,134.04,Monthly,Fiber,5,10,1
+593,Male,64,57,134.04,Monthly,No service,6,10,0
+594,Female,67,39,62.95,Monthly,DSL,8,1,0
+595,Female,19,31,64.25,Yearly,DSL,9,1,0
+596,Female,45,56,148.57,Yearly,DSL,6,3,1
+597,Male,66,47,101.4,Yearly,DSL,5,3,0
+598,Male,67,43,89.07,Monthly,Fiber,0,1,0
+599,Female,47,50,128.96,Monthly,Fiber,1,7,0
+600,Female,55,23,57.09,Yearly,No service,0,4,0
+601,Male,68,44,75.79,Yearly,Fiber,8,10,0
+602,Female,21,38,54.81,Yearly,Fiber,9,2,0
+603,Female,18,20,122.59,Monthly,No service,9,10,0
+604,Female,25,23,94.54,Monthly,No service,8,5,0
+605,Male,46,45,105.65,Monthly,No service,6,6,0
+606,Male,56,52,52.8,Monthly,Fiber,1,9,1
+607,Male,20,16,48.63,Monthly,Fiber,5,4,1
+608,Female,49,50,83.49,Yearly,No service,10,2,0
+609,Female,27,42,115.88,Monthly,No service,3,5,0
+610,Female,27,60,88.28,Monthly,No service,0,3,0
+611,Male,36,55,24.24,Monthly,Fiber,0,2,0
+612,Female,63,8,132.91,Monthly,Fiber,4,1,1
+613,Female,51,50,28.41,Monthly,DSL,1,10,0
+614,Female,50,21,144.26,Yearly,Fiber,3,2,0
+615,Female,40,1,23.27,Monthly,Fiber,0,6,1
+616,Male,45,55,110.28,Monthly,Fiber,3,8,0
+617,Male,49,8,30.69,Monthly,No service,10,3,0
+618,Female,67,29,138.39,Yearly,Fiber,5,9,0
+619,Male,24,32,80.38,Yearly,No service,9,9,0
+620,Male,46,38,37.88,Yearly,DSL,3,2,0
+621,Female,25,5,64.31,Monthly,DSL,0,8,1
+622,Female,18,47,41.43,Yearly,No service,6,10,1
+623,Male,20,22,42.18,Monthly,No service,1,5,0
+624,Female,41,47,143.25,Monthly,No service,8,4,1
+625,Male,40,34,77.88,Yearly,Fiber,2,10,0
+626,Female,25,1,122.54,Monthly,DSL,7,5,1
+627,Male,64,55,103.15,Monthly,No service,7,4,0
+628,Female,54,55,107.94,Monthly,Fiber,2,8,1
+629,Male,20,26,37.12,Yearly,DSL,3,4,1
+630,Male,68,43,50.44,Monthly,Fiber,1,10,0
+631,Male,50,10,122.28,Monthly,DSL,3,6,1
+632,Female,45,30,146.2,Yearly,Fiber,10,2,1
+633,Male,64,50,54.15,Monthly,DSL,10,5,1
+634,Male,25,18,55.3,Monthly,DSL,10,6,0
+635,Female,51,17,81.48,Yearly,Fiber,8,5,1
+636,Female,52,26,147.9,Monthly,No service,1,2,1
+637,Male,49,8,54.96,Monthly,DSL,2,7,0
+638,Male,41,47,72.91,Monthly,No service,10,4,1
+639,Female,31,40,135.89,Monthly,Fiber,10,8,0
+640,Female,49,49,20.38,Monthly,No service,3,7,0
+641,Female,63,12,25.17,Yearly,No service,4,7,0
+642,Female,60,27,98.53,Yearly,No service,0,9,0
+643,Female,33,8,137.96,Yearly,No service,6,1,0
+644,Male,21,25,51.05,Yearly,No service,9,10,0
+645,Female,69,46,81.05,Monthly,DSL,6,6,1
+646,Male,54,4,78.56,Monthly,DSL,8,6,0
+647,Male,38,33,81.49,Monthly,DSL,3,6,0
+648,Male,31,1,100.93,Monthly,Fiber,5,6,0
+649,Female,48,19,81.07,Monthly,No service,10,10,0
+650,Male,65,31,78.17,Yearly,DSL,1,7,1
+651,Male,35,16,81.66,Yearly,Fiber,3,10,0
+652,Female,24,14,96.81,Monthly,DSL,1,6,1
+653,Male,27,53,89.81,Monthly,DSL,9,1,0
+654,Male,24,48,131.04,Monthly,No service,4,3,0
+655,Female,50,5,26.43,Yearly,Fiber,6,2,0
+656,Male,40,41,128.33,Monthly,No service,0,6,0
+657,Male,38,26,129.71,Monthly,No service,9,8,0
+658,Male,36,28,57.04,Monthly,DSL,9,3,0
+659,Female,65,2,80.17,Yearly,No service,6,10,0
+660,Female,36,50,77.01,Monthly,Fiber,9,8,1
+661,Female,53,6,48.41,Yearly,No service,5,8,0
+662,Male,46,9,71.58,Yearly,No service,5,5,0
+663,Male,35,33,25.77,Yearly,No service,7,8,0
+664,Female,19,41,56.12,Yearly,DSL,7,6,0
+665,Male,18,25,126.17,Yearly,Fiber,5,5,1
+666,Male,64,48,56.99,Yearly,DSL,2,9,0
+667,Female,22,13,126.37,Monthly,DSL,4,7,0
+668,Female,37,9,89.11,Monthly,DSL,1,8,1
+669,Male,28,53,134.38,Monthly,DSL,4,1,0
+670,Male,59,13,94.72,Yearly,DSL,8,2,0
+671,Male,19,31,23.86,Monthly,Fiber,9,8,0
+672,Female,20,41,107.8,Yearly,No service,0,9,0
+673,Female,40,11,25.83,Yearly,DSL,9,4,1
+674,Female,29,4,78.58,Yearly,DSL,4,10,1
+675,Female,37,34,140.83,Monthly,Fiber,5,10,1
+676,Male,22,38,41.48,Yearly,Fiber,10,9,0
+677,Female,54,46,70.68,Yearly,No service,6,4,0
+678,Female,55,4,114.88,Monthly,Fiber,8,10,1
+679,Female,47,38,134.69,Monthly,No service,5,10,0
+680,Female,26,19,107.22,Yearly,DSL,4,10,0
+681,Female,51,6,53.56,Yearly,DSL,6,9,0
+682,Male,61,34,107.7,Monthly,No service,0,7,0
+683,Male,52,18,58.57,Monthly,Fiber,10,2,0
+684,Female,69,13,113.4,Monthly,No service,4,9,1
+685,Male,39,41,144.02,Yearly,Fiber,1,4,1
+686,Female,61,23,113.78,Monthly,DSL,3,8,0
+687,Female,41,19,132.17,Monthly,Fiber,6,7,0
+688,Male,34,45,20.27,Monthly,No service,4,7,0
+689,Male,27,11,113.28,Yearly,No service,5,8,1
+690,Female,47,1,127.85,Monthly,DSL,1,1,0
+691,Female,63,24,25.27,Monthly,Fiber,2,5,0
+692,Female,40,54,133.31,Monthly,Fiber,6,2,0
+693,Male,49,7,53.37,Monthly,Fiber,10,2,0
+694,Female,34,25,106.49,Monthly,DSL,1,1,0
+695,Female,67,21,124.05,Yearly,Fiber,5,5,1
+696,Female,68,15,106.15,Yearly,No service,4,2,0
+697,Male,34,1,32.0,Yearly,Fiber,9,4,0
+698,Female,31,12,97.52,Monthly,DSL,0,3,0
+699,Female,26,58,91.45,Yearly,Fiber,10,3,0
+700,Male,57,7,137.04,Yearly,Fiber,9,2,1
+701,Female,19,15,72.55,Yearly,No service,10,6,0
+702,Female,62,21,61.74,Monthly,Fiber,3,2,1
+703,Male,42,19,117.48,Monthly,No service,10,8,0
+704,Female,56,60,73.65,Yearly,No service,1,8,0
+705,Male,26,29,103.99,Yearly,DSL,3,5,0
+706,Male,39,25,104.04,Monthly,No service,0,10,0
+707,Female,60,33,135.45,Monthly,No service,1,7,0
+708,Female,63,49,97.83,Yearly,DSL,7,4,1
+709,Female,21,32,85.28,Monthly,No service,5,1,0
+710,Female,43,49,38.05,Yearly,DSL,1,2,0
+711,Male,46,35,35.05,Monthly,Fiber,5,10,1
+712,Female,62,44,40.06,Yearly,DSL,9,10,1
+713,Male,51,38,42.34,Yearly,No service,8,4,0
+714,Female,40,26,102.92,Monthly,DSL,6,1,1
+715,Female,54,11,116.33,Yearly,No service,8,8,0
+716,Female,28,35,88.9,Yearly,Fiber,4,9,0
+717,Male,23,8,127.77,Yearly,DSL,6,4,1
+718,Female,35,46,148.86,Monthly,Fiber,10,10,0
+719,Female,38,14,126.6,Monthly,No service,6,3,0
+720,Female,59,10,110.33,Monthly,No service,2,2,0
+721,Female,53,2,89.22,Yearly,Fiber,6,5,1
+722,Male,58,46,78.35,Monthly,DSL,0,3,1
+723,Female,55,9,30.97,Yearly,DSL,8,10,0
+724,Male,51,3,71.92,Yearly,No service,9,7,0
+725,Male,34,21,138.32,Monthly,Fiber,5,6,0
+726,Male,54,26,125.04,Monthly,Fiber,4,1,0
+727,Male,42,8,48.09,Yearly,DSL,6,8,0
+728,Male,55,48,80.66,Yearly,DSL,4,2,1
+729,Male,29,2,126.17,Monthly,DSL,9,5,0
+730,Female,40,6,28.76,Monthly,Fiber,4,9,0
+731,Male,59,28,70.36,Monthly,DSL,10,8,0
+732,Male,39,53,130.74,Yearly,DSL,9,2,0
+733,Male,38,29,72.51,Yearly,No service,10,9,1
+734,Female,44,26,30.09,Yearly,DSL,6,5,0
+735,Female,48,25,90.53,Yearly,DSL,9,10,0
+736,Male,23,12,132.03,Yearly,Fiber,6,6,0
+737,Female,44,5,96.74,Monthly,Fiber,10,3,0
+738,Male,57,34,49.42,Monthly,No service,2,3,0
+739,Male,51,48,69.95,Yearly,DSL,2,10,0
+740,Female,29,37,78.52,Yearly,No service,9,8,0
+741,Male,62,15,95.3,Monthly,Fiber,2,10,0
+742,Female,24,44,118.72,Monthly,No service,5,10,0
+743,Female,27,36,32.85,Monthly,Fiber,5,2,0
+744,Male,62,15,135.65,Monthly,No service,2,2,1
+745,Male,34,43,21.6,Yearly,No service,2,5,0
+746,Female,43,48,68.11,Monthly,DSL,7,6,0
+747,Male,38,23,23.56,Yearly,No service,7,2,0
+748,Male,45,6,71.09,Monthly,DSL,6,5,0
+749,Male,63,46,88.36,Monthly,DSL,9,7,1
+750,Female,19,50,86.52,Monthly,DSL,3,10,0
+751,Female,60,44,41.53,Yearly,DSL,3,10,0
+752,Male,18,59,103.95,Yearly,No service,2,8,0
+753,Female,68,43,25.82,Monthly,Fiber,4,7,0
+754,Female,53,45,119.05,Yearly,Fiber,2,8,1
+755,Female,68,21,143.06,Yearly,Fiber,7,9,0
+756,Female,43,23,64.17,Monthly,No service,6,5,0
+757,Female,46,43,87.24,Monthly,DSL,2,5,0
+758,Male,38,55,69.26,Yearly,Fiber,8,10,0
+759,Male,28,16,20.87,Yearly,No service,4,4,0
+760,Male,57,47,70.16,Yearly,DSL,8,9,1
+761,Female,28,53,122.92,Monthly,Fiber,6,5,0
+762,Female,53,60,97.48,Monthly,DSL,6,2,1
+763,Male,66,15,33.16,Yearly,Fiber,5,10,0
+764,Female,56,25,130.13,Monthly,Fiber,1,8,0
+765,Male,57,36,89.04,Monthly,Fiber,8,7,0
+766,Male,52,11,129.42,Yearly,DSL,5,8,1
+767,Male,51,51,95.43,Yearly,No service,7,3,0
+768,Female,64,15,92.76,Monthly,DSL,0,4,0
+769,Female,41,4,33.68,Monthly,Fiber,4,5,0
+770,Male,39,21,41.76,Yearly,DSL,0,6,0
+771,Male,22,13,146.36,Monthly,No service,9,1,0
+772,Male,50,22,49.7,Monthly,DSL,10,4,1
+773,Male,53,19,147.07,Yearly,No service,7,10,1
+774,Female,64,34,89.15,Yearly,No service,7,5,0
+775,Female,37,14,37.65,Monthly,DSL,0,7,1
+776,Male,36,4,32.91,Monthly,Fiber,8,5,0
+777,Male,52,48,47.15,Monthly,No service,1,1,0
+778,Female,69,53,140.33,Yearly,DSL,8,7,0
+779,Female,60,52,73.84,Monthly,No service,0,8,0
+780,Male,34,46,71.41,Monthly,Fiber,9,7,1
+781,Male,62,27,60.72,Yearly,DSL,8,4,0
+782,Male,60,29,39.12,Yearly,DSL,3,8,0
+783,Female,51,47,83.42,Monthly,DSL,8,5,0
+784,Female,26,28,36.91,Yearly,Fiber,6,10,0
+785,Female,43,35,128.61,Yearly,No service,10,9,0
+786,Male,19,8,68.15,Monthly,DSL,5,10,1
+787,Male,26,16,68.72,Yearly,No service,4,5,1
+788,Female,26,42,81.62,Yearly,No service,10,1,1
+789,Female,57,36,77.74,Monthly,Fiber,8,9,0
+790,Male,34,30,149.33,Yearly,DSL,1,5,0
+791,Female,18,18,90.9,Monthly,No service,10,6,0
+792,Female,42,2,31.47,Monthly,DSL,1,4,0
+793,Male,60,49,98.89,Yearly,DSL,10,6,0
+794,Female,57,13,39.71,Yearly,Fiber,8,8,1
+795,Male,59,4,24.02,Yearly,DSL,2,3,0
+796,Male,42,26,146.2,Monthly,DSL,7,5,0
+797,Male,56,25,120.56,Yearly,No service,10,2,0
+798,Male,52,30,147.41,Monthly,Fiber,8,2,0
+799,Male,20,11,82.12,Yearly,DSL,7,7,0
+800,Male,67,7,89.19,Yearly,No service,3,10,1
+801,Male,54,31,41.88,Yearly,Fiber,0,10,0
+802,Female,61,44,52.1,Monthly,Fiber,3,10,1
+803,Male,61,10,129.01,Yearly,No service,8,6,0
+804,Male,68,39,66.3,Yearly,No service,1,4,0
+805,Female,47,13,127.49,Monthly,No service,2,5,0
+806,Female,55,31,112.17,Monthly,No service,9,1,1
+807,Female,51,7,43.03,Yearly,No service,7,7,1
+808,Male,29,56,85.97,Yearly,DSL,5,8,0
+809,Female,36,49,108.06,Yearly,DSL,7,9,0
+810,Male,54,42,50.55,Monthly,Fiber,6,8,0
+811,Male,61,42,127.99,Monthly,DSL,4,5,0
+812,Male,66,56,90.83,Monthly,DSL,8,3,1
+813,Male,34,36,41.48,Monthly,DSL,3,10,0
+814,Female,27,20,95.79,Yearly,No service,5,9,0
+815,Female,66,4,149.96,Monthly,Fiber,1,6,0
+816,Male,64,54,39.57,Monthly,Fiber,1,5,0
+817,Male,29,7,126.18,Monthly,Fiber,1,3,0
+818,Male,33,54,46.95,Yearly,Fiber,9,6,0
+819,Female,41,1,121.71,Yearly,DSL,6,3,0
+820,Male,36,44,115.5,Monthly,DSL,1,10,0
+821,Male,25,56,59.06,Monthly,No service,1,6,0
+822,Female,48,45,62.36,Yearly,Fiber,8,4,1
+823,Female,38,42,123.03,Yearly,DSL,6,2,0
+824,Male,34,47,79.99,Yearly,DSL,10,8,0
+825,Female,40,59,115.01,Yearly,No service,2,4,0
+826,Female,54,13,39.24,Yearly,No service,2,9,0
+827,Male,33,55,130.83,Yearly,No service,6,7,0
+828,Female,23,22,112.42,Yearly,DSL,4,2,0
+829,Male,25,54,137.9,Yearly,DSL,9,4,0
+830,Female,42,21,37.21,Monthly,No service,5,5,1
+831,Male,35,22,97.09,Monthly,Fiber,7,3,0
+832,Male,42,28,97.89,Monthly,No service,8,9,0
+833,Male,29,9,65.95,Monthly,No service,0,5,0
+834,Female,32,26,79.6,Monthly,No service,2,2,0
+835,Male,43,9,24.94,Monthly,No service,10,3,0
+836,Female,58,15,116.96,Yearly,DSL,6,9,1
+837,Male,62,10,91.41,Yearly,Fiber,5,7,0
+838,Male,43,24,27.51,Monthly,No service,6,2,0
+839,Female,64,58,108.5,Monthly,Fiber,7,9,0
+840,Male,49,57,80.68,Yearly,Fiber,5,4,0
+841,Male,27,42,24.48,Yearly,Fiber,2,9,0
+842,Female,33,8,146.05,Yearly,No service,1,2,0
+843,Male,24,24,143.38,Monthly,DSL,6,10,0
+844,Male,34,16,86.68,Yearly,No service,10,4,0
+845,Male,40,49,32.18,Monthly,Fiber,0,5,0
+846,Male,43,26,118.1,Monthly,Fiber,2,2,1
+847,Female,38,27,83.95,Yearly,DSL,10,10,0
+848,Female,39,37,59.32,Yearly,No service,3,1,1
+849,Male,24,4,83.88,Monthly,Fiber,0,7,1
+850,Female,31,50,87.92,Yearly,DSL,4,10,0
+851,Male,32,24,93.15,Yearly,Fiber,9,1,0
+852,Female,24,19,77.36,Monthly,DSL,2,8,0
+853,Male,26,36,98.75,Yearly,DSL,1,3,0
+854,Male,68,60,139.44,Monthly,No service,2,10,0
+855,Male,65,39,67.09,Monthly,Fiber,7,6,1
+856,Male,25,10,114.34,Yearly,No service,5,7,1
+857,Male,67,25,136.28,Monthly,Fiber,6,10,0
+858,Male,40,18,79.28,Monthly,No service,5,1,0
+859,Female,46,19,77.65,Yearly,Fiber,5,6,0
+860,Male,35,36,98.28,Yearly,No service,2,7,1
+861,Female,48,10,96.88,Yearly,DSL,7,6,0
+862,Male,47,33,124.86,Monthly,Fiber,6,4,0
+863,Female,69,55,81.94,Monthly,Fiber,6,1,0
+864,Female,56,50,149.5,Yearly,DSL,5,9,0
+865,Female,52,5,27.73,Monthly,No service,4,4,1
+866,Male,35,47,20.41,Yearly,Fiber,9,7,0
+867,Male,59,49,103.23,Yearly,Fiber,7,7,0
+868,Female,56,35,58.8,Monthly,No service,4,2,1
+869,Male,34,44,51.25,Yearly,DSL,8,1,0
+870,Female,31,34,60.55,Monthly,No service,8,8,0
+871,Male,48,33,53.29,Monthly,No service,0,8,0
+872,Female,41,55,24.0,Yearly,No service,5,7,0
+873,Female,52,21,146.3,Monthly,Fiber,6,8,0
+874,Male,61,17,48.7,Yearly,DSL,2,3,0
+875,Female,62,22,115.42,Monthly,DSL,6,2,0
+876,Male,51,48,119.14,Monthly,No service,10,7,0
+877,Female,20,37,140.8,Monthly,Fiber,10,8,1
+878,Female,54,15,23.97,Yearly,No service,6,1,1
+879,Male,60,35,133.37,Monthly,Fiber,10,10,0
+880,Male,57,28,88.54,Yearly,Fiber,1,9,0
+881,Male,43,7,102.23,Monthly,Fiber,6,4,0
+882,Female,40,32,103.78,Monthly,Fiber,0,4,0
+883,Male,61,11,126.57,Yearly,DSL,4,3,1
+884,Female,56,10,63.34,Yearly,Fiber,8,6,0
+885,Female,32,9,115.3,Yearly,Fiber,6,1,0
+886,Male,66,14,88.72,Yearly,No service,6,6,0
+887,Male,21,13,123.14,Yearly,No service,10,2,0
+888,Female,46,57,148.77,Monthly,DSL,1,9,0
+889,Female,39,25,46.08,Monthly,No service,7,2,0
+890,Male,42,2,149.3,Yearly,Fiber,2,7,1
+891,Male,30,35,31.68,Monthly,No service,7,1,1
+892,Male,35,7,20.3,Monthly,DSL,2,7,0
+893,Male,50,21,25.74,Monthly,No service,9,5,0
+894,Male,33,18,64.43,Yearly,No service,6,8,1
+895,Female,62,3,102.28,Monthly,DSL,1,4,0
+896,Female,59,42,28.97,Monthly,DSL,3,10,0
+897,Female,61,54,20.74,Monthly,Fiber,10,7,0
+898,Female,19,39,141.82,Yearly,No service,5,6,1
+899,Male,52,41,126.85,Monthly,Fiber,10,5,0
+900,Male,59,49,125.19,Monthly,No service,8,4,0
+901,Male,51,11,134.98,Yearly,No service,4,7,1
+902,Female,47,39,111.0,Yearly,Fiber,8,5,1
+903,Female,30,24,33.57,Monthly,No service,4,5,1
+904,Male,30,60,71.88,Monthly,No service,9,1,0
+905,Male,35,46,114.01,Yearly,No service,7,2,0
+906,Female,49,19,56.44,Yearly,DSL,0,5,0
+907,Female,49,4,109.36,Yearly,Fiber,6,3,1
+908,Male,52,26,23.18,Yearly,DSL,3,2,0
+909,Male,56,38,59.8,Yearly,Fiber,4,4,0
+910,Female,63,42,91.39,Yearly,Fiber,5,4,1
+911,Male,69,32,102.17,Yearly,No service,4,4,0
+912,Male,46,39,95.02,Monthly,Fiber,0,4,0
+913,Male,66,45,110.71,Yearly,DSL,8,3,0
+914,Female,46,46,20.79,Yearly,DSL,1,7,0
+915,Female,61,36,33.12,Monthly,DSL,8,9,0
+916,Female,33,40,132.96,Yearly,Fiber,9,5,0
+917,Female,61,37,108.63,Yearly,DSL,1,4,0
+918,Female,64,33,34.68,Monthly,Fiber,8,2,0
+919,Female,27,36,129.47,Yearly,DSL,5,2,0
+920,Female,47,3,51.49,Monthly,DSL,10,5,0
+921,Male,42,9,82.17,Monthly,Fiber,8,7,1
+922,Male,56,8,38.88,Monthly,DSL,5,10,0
+923,Male,37,33,112.31,Monthly,No service,5,10,0
+924,Male,22,59,106.69,Yearly,Fiber,10,9,1
+925,Male,18,6,47.44,Monthly,Fiber,1,7,0
+926,Male,47,41,132.24,Monthly,Fiber,7,5,1
+927,Male,66,39,72.17,Yearly,No service,2,10,1
+928,Female,20,4,58.03,Monthly,Fiber,6,10,0
+929,Female,62,13,39.8,Monthly,DSL,4,10,1
+930,Male,31,49,54.6,Monthly,DSL,2,6,0
+931,Male,47,60,22.86,Monthly,DSL,0,3,0
+932,Female,67,2,95.82,Yearly,Fiber,7,5,0
+933,Male,21,60,129.49,Monthly,DSL,2,8,0
+934,Male,35,5,91.37,Yearly,Fiber,1,1,1
+935,Female,54,44,48.51,Yearly,DSL,0,1,0
+936,Male,42,27,24.38,Monthly,No service,3,7,0
+937,Female,65,32,47.9,Monthly,No service,7,5,0
+938,Male,18,21,74.1,Monthly,No service,2,5,0
+939,Female,63,8,118.75,Monthly,No service,0,1,0
+940,Female,32,38,44.42,Yearly,Fiber,3,9,0
+941,Female,26,8,113.57,Yearly,DSL,8,1,1
+942,Male,32,50,132.7,Yearly,No service,0,5,0
+943,Female,66,3,79.01,Monthly,Fiber,10,10,1
+944,Male,41,54,126.79,Yearly,No service,1,9,0
+945,Male,21,44,92.11,Monthly,No service,8,4,1
+946,Male,29,58,102.82,Monthly,Fiber,1,8,0
+947,Male,54,3,88.42,Monthly,Fiber,2,6,0
+948,Female,54,22,80.21,Monthly,DSL,6,3,0
+949,Female,60,6,50.5,Monthly,DSL,2,4,1
+950,Male,23,2,59.42,Yearly,No service,8,2,0
+951,Male,56,23,57.7,Yearly,No service,5,1,1
+952,Female,63,44,93.23,Monthly,DSL,2,8,0
+953,Male,41,2,35.59,Yearly,DSL,8,1,0
+954,Female,28,38,139.18,Monthly,Fiber,0,1,0
+955,Male,30,17,113.69,Monthly,DSL,9,4,1
+956,Male,51,35,72.19,Monthly,DSL,2,10,0
+957,Female,42,34,40.62,Yearly,No service,0,10,1
+958,Male,24,23,134.66,Monthly,DSL,1,6,1
+959,Female,69,30,127.09,Monthly,No service,7,9,0
+960,Male,21,52,113.82,Yearly,DSL,6,1,0
+961,Male,25,8,55.3,Yearly,Fiber,1,7,0
+962,Male,37,22,72.32,Yearly,DSL,1,10,0
+963,Female,46,44,33.36,Monthly,DSL,8,5,1
+964,Male,68,58,44.58,Monthly,DSL,5,8,0
+965,Male,62,36,121.79,Yearly,No service,4,7,0
+966,Male,63,5,112.96,Monthly,Fiber,9,4,1
+967,Male,27,13,97.15,Yearly,DSL,5,4,0
+968,Female,60,29,136.44,Yearly,No service,8,6,0
+969,Female,51,31,95.82,Monthly,Fiber,10,6,0
+970,Male,43,47,80.71,Monthly,No service,6,9,0
+971,Female,58,57,64.25,Yearly,No service,9,5,0
+972,Male,66,55,142.26,Yearly,Fiber,9,8,1
+973,Male,20,16,30.75,Yearly,DSL,8,5,0
+974,Male,23,42,141.02,Yearly,No service,3,2,0
+975,Female,22,30,127.47,Monthly,No service,1,6,0
+976,Female,22,57,36.89,Yearly,DSL,7,9,0
+977,Female,64,55,93.45,Yearly,DSL,3,3,0
+978,Female,40,16,132.65,Yearly,Fiber,8,1,1
+979,Female,66,12,94.34,Monthly,Fiber,3,1,0
+980,Female,26,17,137.94,Monthly,Fiber,7,3,0
+981,Female,52,16,142.59,Yearly,DSL,8,10,0
+982,Female,37,12,74.91,Monthly,No service,8,5,0
+983,Female,66,8,69.05,Monthly,No service,9,3,0
+984,Male,59,20,141.72,Monthly,Fiber,3,9,0
+985,Female,52,3,107.77,Yearly,DSL,0,8,0
+986,Female,67,16,35.08,Yearly,No service,2,3,0
+987,Female,35,30,25.5,Monthly,Fiber,8,9,0
+988,Female,34,45,93.4,Yearly,No service,3,6,0
+989,Female,41,23,140.92,Yearly,No service,4,7,1
+990,Female,20,28,129.75,Monthly,DSL,6,4,0
+991,Female,49,51,107.86,Monthly,DSL,4,4,0
+992,Female,52,40,38.09,Yearly,No service,3,2,0
+993,Female,55,54,53.05,Monthly,Fiber,1,5,0
+994,Female,30,5,133.82,Yearly,DSL,1,8,0
+995,Female,64,20,43.76,Yearly,No service,3,7,0
+996,Male,42,40,56.2,Monthly,DSL,9,7,0
+997,Male,26,56,36.85,Yearly,DSL,9,6,0
+998,Female,21,44,107.89,Yearly,DSL,8,3,0
+999,Female,31,1,142.72,Monthly,No service,7,5,0
+1000,Male,54,57,54.97,Monthly,Fiber,2,1,0
